@@ -4,3 +4,4 @@
 
   ## Exercises
   - Exercise 01 - Database Design and Table Creation (EduTrack SA)
+  - Exercise 02 - Querying, Sorting, and Filtering Data (EduTrack SA)
